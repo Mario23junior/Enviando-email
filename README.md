@@ -1,5 +1,5 @@
 # Enviando-email
-api de enviar email via codigo de execução
+api de enviar email via codigo de execução 
 
 Deve-sse adicionar um e-mail e senha válido para que seja possível conectar em sua conta.
 
