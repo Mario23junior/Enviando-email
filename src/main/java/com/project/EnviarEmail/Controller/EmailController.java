@@ -16,8 +16,8 @@ public class EmailController {
 	 public String sendEmail() {
 		SimpleMailMessage message = new SimpleMailMessage();
 		message.setText("Ola sou uma aplicação Springboot");
-		message.setTo("mariojunior3251@gmail.com");
-		message.setFrom("mariojunior3251@gmail.com");
+		message.setTo("seu gmail-  ou para quem quer enviar");
+		message.setFrom("seu gmail-  ou para quem quer enviar");
 		
 		try { 
 			mailSender.send(message);
